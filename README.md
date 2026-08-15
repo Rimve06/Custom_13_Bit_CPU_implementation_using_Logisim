@@ -8,7 +8,7 @@ Unlike a minimal 8-instruction textbook CPU, this system implements a **16-slot 
 
 Every architectural fact in this README — every ROM byte, every register width, every claim about how the multiply instruction actually works — was confirmed by directly parsing the project's own `.circ` source files and cross-checking that analysis against a live, single-stepped simulation trace.
 
-📄 For the complete signal-by-signal breakdown, see the [Technical Report](docs/Technical_Report.pdf).
+📄 For the complete signal-by-signal breakdown, see the [Technical Report](docs/13bit_CPU_Technical_Report_.pdf).
 
 ---
 
